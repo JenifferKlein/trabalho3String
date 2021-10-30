@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Principal
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=frase
+comment2.target=int\ vogais(java.lang.String)
+comment3.params=frase\ palavra
+comment3.target=int\ quantPalavra(java.lang.String,\ java.lang.String)
+comment4.params=verbo
+comment4.target=java.lang.String\ formatVerbo(java.lang.String)
+comment5.params=palindromo
+comment5.target=java.lang.String\ palindromo_o(java.lang.String)
+comment6.params=
+comment6.target=void\ usandoCharAt()
+comment7.params=
+comment7.target=void\ usandoCharAt2()
+numComments=8
